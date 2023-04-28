@@ -66,3 +66,15 @@
 
     padding-top: 3%;   
   }
+
+  @media (max-width: 900px) {
+
+
+    header{
+      width: 100%;
+    }
+    .navbar{
+      text-decoration: none;
+      color: #ffffff;
+      font-size: 0.8em;
+    }
