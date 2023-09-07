@@ -1,0 +1,120 @@
+@import url(cabecalho.css);
+@import url(rodape.css);
+@import url(contato.css);
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+    background-color: #1E1E1E;
+  }
+
+  section p{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .ilustracao{
+    box-shadow: 0px 0px 20px rgba(242,235,238,0.8); 
+  }
+
+  section{
+   
+    padding-top: 5rem;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+
+ .conteudo{
+    margin-right: 4%;
+    
+
+  }
+  
+
+  .home{
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+
+    
+
+    padding-top: 10%;
+    color: #ffffff;
+  }
+
+  .home p{
+    margin-bottom: 5%;
+  }
+
+ .contato{
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+
+  border-radius: 40px;
+
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2% ;
+ }
+
+ @media (max-width: 900px) {
+
+   section{
+   
+    padding-top: 5rem;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+  }
+
+  .ilustracao{
+    box-shadow: 0px 0px 20px rgba(242,235,238,0.8); 
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+ .conteudo{
+  margin-left: 4%;
+ }
+}
+
+@media (max-width: 900px) {
+
+  section{
+    width: 90%;
+    margin-left: 6%;
+    margin-right: 10%;
+  }
+
+  .conteudo{
+    margin-left: 0%;
+    
+
+  }
+}
