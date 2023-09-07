@@ -1,0 +1,133 @@
+2023-04-07 14:18:06,428 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-04-07 14:18:06,431 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-04-07 14:18:06,436 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-04-07 14:18:06,439 [main] JP.co.esm.caddies.jomt.jsystem.k <INFO> - jude property file not found. It is created at the time of the end of application.
+2023-04-07 14:18:09,524 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - maybe initial value of system property.
+2023-04-07 14:19:42,666 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-07 15:27:30,391 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jmodel.MindMapProperty <INFO> - file: C:\Users\nicol\.astah\uml\MindMapPropU.properties
+2023-04-08 00:36:30,890 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\nicol\Downloads\FIAP\CHALLENGE\Class Diagram2 sprint1.asta
+2023-04-08 00:36:30,918 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-04-08 00:37:12,863 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-04-08 00:37:12,882 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-04-08 00:37:12,890 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-04-08 12:55:56,817 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\nicol\Downloads\FIAP\CHALLENGE\Class Diagram2 sprint1.asta
+2023-04-08 12:55:56,904 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-08 12:55:56,908 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-08 12:55:56,920 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-04-25 21:10:23,011 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-04-25 21:10:23,014 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-04-25 21:10:23,019 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-04-25 21:10:45,723 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-25 21:10:45,730 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-25 21:10:45,732 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-04-26 19:44:37,774 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\nicol\Downloads\FIAP\DOMAIN DRIVEN DESIGN\Class Diagram0-aula1.asta
+2023-04-26 19:44:39,170 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-26 19:44:39,173 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-04-26 19:44:39,180 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-04-26 19:44:39,186 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\nicol\.astah\uml\astah_command.log
+2023-05-04 18:57:03,755 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-05-04 18:57:03,758 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\nicol\Downloads\UseCase_Diagram0.asta]
+2023-05-04 18:57:03,764 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-05-04 18:57:05,807 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-05-05 18:04:49,346 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jmodel.i <WARN> - Project model isn't found.
+JP.co.esm.caddies.golf.model.BadEntityException: no such entity for getting entity for entry
+	at JP.co.esm.caddies.golf.model.EntityRoot.getEntry(X:149)
+	at JP.co.esm.caddies.jomt.jmodel.i.a(X:246)
+	at JP.co.esm.caddies.jomt.jmodel.i.o(X:2232)
+	at JP.co.esm.caddies.jomt.jmodel.i.j(X:2292)
+	at JP.co.esm.caddies.jomt.jmodel.i.k(X:2314)
+	at JP.co.esm.caddies.jomt.jmodel.i.k(X:2310)
+	at JP.co.esm.caddies.jomt.jmodel.i.f(X:2303)
+	at JP.co.esm.caddies.uml.SimpleUML.SimpleClassifier.isUnderERDomainModel(X:1953)
+	at JP.co.esm.caddies.uml.SimpleUML.SimpleClassifier.validateForERDomain(X:1941)
+	at JP.co.esm.caddies.uml.SimpleUML.SimpleClassifier.validate(X:1936)
+	at JP.co.esm.caddies.jomt.jcontrol.ModelValidationCommand.a(X:240)
+	at JP.co.esm.caddies.jomt.jcontrol.ModelValidationCommand.b(X:114)
+	at JP.co.esm.caddies.jomt.jview.fn.b(X:773)
+	at JP.co.esm.caddies.jomt.jview.fn.a(X:754)
+	at JP.co.esm.caddies.jomt.jview.fn.a(X:662)
+	at JP.co.esm.caddies.jomt.jview.fn.b(X:679)
+	at JP.co.esm.caddies.jomt.jutil.D.uncaughtException(X:22)
+	at java.awt.EventDispatchThread.processException(EventDispatchThread.java:227)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:219)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-05-05 18:04:49,378 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.fn <ERROR> - error has occurred.
+java.lang.NullPointerException: null
+	at javax.swing.plaf.basic.BasicTabbedPaneUI.rotateInsets(BasicTabbedPaneUI.java:2150)
+	at javax.swing.plaf.basic.BasicTabbedPaneUI.getTabAreaInsets(BasicTabbedPaneUI.java:1809)
+	at javax.swing.plaf.basic.BasicTabbedPaneUI$TabbedPaneScrollLayout.calculateTabRects(BasicTabbedPaneUI.java:3150)
+	at javax.swing.plaf.basic.BasicTabbedPaneUI$TabbedPaneLayout.calculateLayoutInfo(BasicTabbedPaneUI.java:2512)
+	at javax.swing.plaf.basic.BasicTabbedPaneUI$TabbedPaneScrollLayout.layoutContainer(BasicTabbedPaneUI.java:2916)
+	at java.awt.Container.layout(Container.java:1513)
+	at java.awt.Container.doLayout(Container.java:1502)
+	at java.awt.Container.validateTree(Container.java:1698)
+	at java.awt.Container.validateTree(Container.java:1707)
+	at java.awt.Container.validateTree(Container.java:1707)
+	at java.awt.Container.validateTree(Container.java:1707)
+	at java.awt.Container.validate(Container.java:1633)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:711)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at javax.swing.RepaintManager.validateInvalidComponents(RepaintManager.java:708)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1731)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-05-05 18:04:49,394 [SIGTERM handler] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-05 18:04:49,410 [SIGTERM handler] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-05 18:04:49,505 [SIGTERM handler] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-05-05 18:04:49,525 [SIGTERM handler] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\nicol\.astah\uml\astah_command.log
+2023-05-07 14:59:23,353 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-05-07 14:59:23,356 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\nicol\Downloads\UseCase_Diagram0.asta]
+2023-05-07 14:59:23,362 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-05-07 14:59:24,185 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - invalid value. x is negative. x:-32000, displayOriginX:0.0
+2023-05-07 14:59:24,185 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - invalid value. y is negative. y:-32000, displayOriginY:0.0
+2023-05-07 14:59:24,397 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-05-07 15:09:08,110 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jcontrol.JudeToImageCommand <INFO> - file: C:\Users\nicol\OneDrive\Área de Trabalho\FIAP\SOFTWARE DESIGN & TOTAL EXPERIENCE\UseCase Diagram0.png
+2023-05-07 15:10:07,423 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jcontrol.JudeToImageCommand <INFO> - file: C:\Users\nicol\OneDrive\Área de Trabalho\FIAP\SOFTWARE DESIGN & TOTAL EXPERIENCE\UseCase Diagram0.png
+2023-05-07 15:31:32,011 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\nicol\Downloads\UseCase_Diagram0.asta
+2023-05-07 15:31:32,144 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-07 15:31:32,151 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-07 15:31:32,183 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-05-07 15:31:32,189 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\nicol\.astah\uml\astah_command.log
+2023-05-07 21:35:39,510 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-05-07 21:35:39,512 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\nicol\Downloads\UseCase_Diagram0.asta]
+2023-05-07 21:35:39,514 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-05-07 21:35:40,536 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-05-07 21:35:48,038 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-07 21:35:48,042 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-07 21:35:48,065 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-05-07 21:35:48,067 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\nicol\.astah\uml\astah_command.log
+2023-05-21 18:38:42,040 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-05-21 18:38:42,045 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\nicol\Downloads\class_diagram_sprint_2.asta]
+2023-05-21 18:38:42,046 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-05-21 18:38:43,162 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-05-21 18:40:26,633 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jcontrol.JudeToImageCommand <INFO> - file: C:\Users\nicol\OneDrive\Área de Trabalho\Class Diagram0.png
+2023-05-21 18:52:48,502 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-21 18:52:48,505 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-05-21 18:52:48,532 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-05-21 18:52:48,535 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\nicol\.astah\uml\astah_command.log
+2023-08-23 22:56:32,962 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 8.5.0 / 39c620 ==============================
+2023-08-23 22:56:32,964 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\nicol\Downloads\cp1SFDT&X.asta]
+2023-08-23 22:56:32,967 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-08-23 22:56:33,975 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-08-23 22:58:12,269 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-08-23 22:58:12,274 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\nicol\.astah\uml\JudeMMUserIconP.xml
+2023-08-23 22:58:12,294 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\nicol\.astah\uml\JudeU.properties
+2023-08-23 22:58:12,298 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\nicol\.astah\uml\astah_command.log
